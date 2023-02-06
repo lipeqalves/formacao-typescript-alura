@@ -1,1 +1,1 @@
-# tormacao-typescript-alura
+# formacao-typescript-alura
